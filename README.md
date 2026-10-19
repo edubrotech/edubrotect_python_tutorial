@@ -42,7 +42,7 @@ Whether you are watching the **YouTube video series**, preparing for technical i
 |---|---|---|---|
 | 01 | **Variables & Data Types** | [📂 `01_variables_and_data_types`](./01_python_basic/01_variables_and_data_types/) | Dynamic typing, primitive types, memory address (`id`), small integer caching, truthy/falsy |
 | 02 | **Operators & Expressions** | [📂 `02_operators_and_expressions`](./01_python_basic/02_operators_and_expressions/) | Arithmetic, floor division (`//`), chained comparisons, logical short-circuiting, `is` vs `==`, bitwise |
-| 03 | **Control Flow & Loops** | [📂 `03_control_flow`](./01_python_basic/03_control_flow/) | `if-elif-else`, ternary expressions, `match-case` (3.10+), `for`, `while`, loop `else` clause |
+| 03 | **Control Flow & Loops** | [📂 `03_control_flow`](./01_python_basic/03_control_flow/) ([Loops Guide](./01_python_basic/03_control_flow/Loops/)) | `if-elif-else`, ternary, `match-case` (3.10+), `for`, `while`, walrus `:=`, loop `else`, itertools, 25 interview scenarios |
 | 04 | **Strings & Formatting** | [📂 `04_strings_and_formatting`](./01_python_basic/04_strings_and_formatting/) | Slicing `[start:stop:step]`, immutability, string methods, modern f-strings, alignment, raw strings |
 | 05 | **Type Casting & Console I/O** | [📂 `05_type_casting_and_io`](./01_python_basic/05_type_casting_and_io/) | Implicit vs explicit casting, `input()` handling, `print()` parameters (`sep`, `end`, `flush`) |
 | 06 | **Functions & Variable Scope** | [📂 `06_functions`](./01_python_basic/06_functions/) | `def`, positional vs keyword, `*args`, `**kwargs`, LEGB scope rule, lambda, mutable default trap |
